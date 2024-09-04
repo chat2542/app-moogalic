@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/dev.db
+/req.txt
 
 # testing
 /coverage
